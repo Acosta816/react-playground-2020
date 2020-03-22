@@ -1,0 +1,217 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TestSuite: Accordian Component Snapshot: should close first tab and open 2nd tab when 2nd button is clicked on 1`] = `
+<div>
+  <ul>
+    <li
+      key="0"
+    >
+      <button
+        onClick={[Function]}
+      >
+        Sonic
+      </button>
+    </li>
+    <li
+      key="1"
+    >
+      <button
+        onClick={[Function]}
+      >
+        Tails
+      </button>
+      <div>
+        <p>
+          Loyal and Hyper-intelligent Flying Fox
+        </p>
+        <img
+          alt="sonic gifs"
+          src="https://66.media.tumblr.com/a2b506d774c4840d65527670dd77076e/tumblr_pc8gylOts11qjztgpo1_400.gifv"
+        />
+      </div>
+    </li>
+    <li
+      key="2"
+    >
+      <button
+        onClick={[Function]}
+      >
+        Amy
+      </button>
+    </li>
+    <li
+      key="3"
+    >
+      <button
+        onClick={[Function]}
+      >
+        Robotnik
+      </button>
+    </li>
+    <li
+      key="4"
+    >
+      <button
+        onClick={[Function]}
+      >
+        Shadow
+      </button>
+    </li>
+    <li
+      key="5"
+    >
+      <button
+        onClick={[Function]}
+      >
+        Sally
+      </button>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`TestSuite: Accordian Component Snapshot: should close first tab and open 4th tab when 4th button is clicked on 1`] = `
+<div>
+  <ul>
+    <li
+      key="0"
+    >
+      <button
+        onClick={[Function]}
+      >
+        Sonic
+      </button>
+    </li>
+    <li
+      key="1"
+    >
+      <button
+        onClick={[Function]}
+      >
+        Tails
+      </button>
+    </li>
+    <li
+      key="2"
+    >
+      <button
+        onClick={[Function]}
+      >
+        Amy
+      </button>
+    </li>
+    <li
+      key="3"
+    >
+      <button
+        onClick={[Function]}
+      >
+        Robotnik
+      </button>
+      <div>
+        <p>
+          Crazed Genius, obsessed with robotisizing all life and ridding the world of Sonic
+        </p>
+        <img
+          alt="sonic gifs"
+          src="https://thumbs.gfycat.com/RepentantPepperyBangeltiger.webp"
+        />
+      </div>
+    </li>
+    <li
+      key="4"
+    >
+      <button
+        onClick={[Function]}
+      >
+        Shadow
+      </button>
+    </li>
+    <li
+      key="5"
+    >
+      <button
+        onClick={[Function]}
+      >
+        Sally
+      </button>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`TestSuite: Accordian Component Snapshot: should render empty, given no sections prop 1`] = `
+<div>
+  <ul />
+</div>
+`;
+
+exports[`TestSuite: Accordian Component Snapshot: should render with first tab open 1`] = `
+<div>
+  <ul>
+    <li
+      key="0"
+    >
+      <button
+        onClick={[Function]}
+      >
+        Sonic
+      </button>
+      <div>
+        <p>
+          Fastest thing Alive
+        </p>
+        <img
+          alt="sonic gifs"
+          src="https://media2.giphy.com/media/K3B3v1IUkroE8/giphy.gif?cid=790b7611a0141074eddd3986bac2408e78aa2c9921709e38&rid=giphy.gif"
+        />
+      </div>
+    </li>
+    <li
+      key="1"
+    >
+      <button
+        onClick={[Function]}
+      >
+        Tails
+      </button>
+    </li>
+    <li
+      key="2"
+    >
+      <button
+        onClick={[Function]}
+      >
+        Amy
+      </button>
+    </li>
+    <li
+      key="3"
+    >
+      <button
+        onClick={[Function]}
+      >
+        Robotnik
+      </button>
+    </li>
+    <li
+      key="4"
+    >
+      <button
+        onClick={[Function]}
+      >
+        Shadow
+      </button>
+    </li>
+    <li
+      key="5"
+    >
+      <button
+        onClick={[Function]}
+      >
+        Sally
+      </button>
+    </li>
+  </ul>
+</div>
+`;

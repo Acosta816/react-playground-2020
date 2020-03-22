@@ -1,0 +1,103 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TestSuite: Tabs2 Component 📷Snapshot: closes the first tab and opens ANY clicked tab 1`] = `
+<div>
+  <button
+    key="0"
+    onClick={[Function]}
+  >
+    Sonic
+  </button>
+  <button
+    key="1"
+    onClick={[Function]}
+  >
+    Tails
+  </button>
+  <button
+    key="2"
+    onClick={[Function]}
+  >
+    Amy
+  </button>
+  <button
+    key="3"
+    onClick={[Function]}
+  >
+    Robotnik
+  </button>
+  <button
+    key="4"
+    onClick={[Function]}
+  >
+    Shadow
+  </button>
+  <button
+    key="5"
+    onClick={[Function]}
+  >
+    Sally
+  </button>
+  <div>
+    <h2>
+      Sonics Biggest Fan. Hammer-weilding Pink Hedgehog
+    </h2>
+    <img
+      alt="sonic chars"
+      src="https://b7.pngbarn.com/png/319/82/amy-rose-sonic-colors-sonic-chaos-sonic-cd-knuckles-the-echidna-sonic-the-hedgehog-png-clip-art.png"
+    />
+  </div>
+</div>
+`;
+
+exports[`TestSuite: Tabs2 Component 📷Snapshot: renders empty given no tabs props 1`] = `<div />`;
+
+exports[`TestSuite: Tabs2 Component 📷Snapshot: renders the first tab by default 1`] = `
+<div>
+  <button
+    key="0"
+    onClick={[Function]}
+  >
+    Sonic
+  </button>
+  <button
+    key="1"
+    onClick={[Function]}
+  >
+    Tails
+  </button>
+  <button
+    key="2"
+    onClick={[Function]}
+  >
+    Amy
+  </button>
+  <button
+    key="3"
+    onClick={[Function]}
+  >
+    Robotnik
+  </button>
+  <button
+    key="4"
+    onClick={[Function]}
+  >
+    Shadow
+  </button>
+  <button
+    key="5"
+    onClick={[Function]}
+  >
+    Sally
+  </button>
+  <div>
+    <h2>
+      Fastest thing Alive
+    </h2>
+    <img
+      alt="sonic chars"
+      src="https://b7.pngbarn.com/png/547/724/sonic-the-hedgehog-2-sonic-3d-sonic-mania-sonic-cd-sonic-the-hedgehog-png-clip-art.png"
+    />
+  </div>
+</div>
+`;

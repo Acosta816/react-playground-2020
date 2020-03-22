@@ -1,0 +1,103 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`🦾TestSuite: Tabs Component 📷EnzSnap#01: renders empty given no tabs props passed in 1`] = `<div />`;
+
+exports[`🦾TestSuite: Tabs Component 📷EnzSnap#02: renders first tab by default 1`] = `
+<div>
+  <button
+    key="0"
+    onClick={[Function]}
+  >
+    Sonic
+  </button>
+  <button
+    key="1"
+    onClick={[Function]}
+  >
+    Tails
+  </button>
+  <button
+    key="2"
+    onClick={[Function]}
+  >
+    Amy
+  </button>
+  <button
+    key="3"
+    onClick={[Function]}
+  >
+    Robotnik
+  </button>
+  <button
+    key="4"
+    onClick={[Function]}
+  >
+    Shadow
+  </button>
+  <button
+    key="5"
+    onClick={[Function]}
+  >
+    Sally
+  </button>
+  <div
+    className="content"
+  >
+    Fastest thing Alive
+    <img
+      alt="sonic characters"
+      className="avatar"
+    />
+  </div>
+</div>
+`;
+
+exports[`🦾TestSuite: Tabs Component 🦠💥EnzEvent#01: closes first tab and opens any clicked tab 1`] = `
+<div>
+  <button
+    key="0"
+    onClick={[Function]}
+  >
+    Sonic
+  </button>
+  <button
+    key="1"
+    onClick={[Function]}
+  >
+    Tails
+  </button>
+  <button
+    key="2"
+    onClick={[Function]}
+  >
+    Amy
+  </button>
+  <button
+    key="3"
+    onClick={[Function]}
+  >
+    Robotnik
+  </button>
+  <button
+    key="4"
+    onClick={[Function]}
+  >
+    Shadow
+  </button>
+  <button
+    key="5"
+    onClick={[Function]}
+  >
+    Sally
+  </button>
+  <div
+    className="content"
+  >
+    Loyal and Hyper-intelligent Flying Fox
+    <img
+      alt="sonic characters"
+      className="avatar"
+    />
+  </div>
+</div>
+`;

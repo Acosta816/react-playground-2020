@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TestSuite: Messages Component SNAPSHOT#01: renders the UI as expected compared to the saved shot 1`] = `
+<div
+  className="messages"
+>
+  Messages
+  <div
+    className="unread_count badge"
+  >
+    4
+  </div>
+</div>
+`;
+
+exports[`TestSuite: Messages Component SNAPSHOT#02: renders the UI as expected with no unreads 1`] = `
+<div
+  className="messages"
+>
+  Messages
+</div>
+`;

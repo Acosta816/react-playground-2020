@@ -1,0 +1,6 @@
+.split {
+    flex: 1;
+    padding: 1em;
+    border: 1px solid black;
+    background-color: rgba(0, 0, 255, 0.5);
+}

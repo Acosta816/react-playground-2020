@@ -1,38 +1,20 @@
+
+
 .App {
-  text-align: center;
+    display: flex;
+    margin: 40px;
+    min-height: calc(100vh - 80px);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* We put the styles for the instances of the <Split> components used in App.js inside of App.css because App.js is where we are working with these instances. 
+   We dont want to put these styles inside of Split.css because then they would be card-coded. That's like a tire manufacturing company that makes
+   tires for different clients putting Goodyear directly in the mold even if they use that same mold for Michelin. That would destroy the reusability of that component.   */
+.left {
+    background-color: black;
+    color: white;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.right {
+    background-color: rgba(0, 128, 0, 0.459);
+    color: orange;
 }
