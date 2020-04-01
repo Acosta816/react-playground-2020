@@ -1,0 +1,14 @@
+.Selector {
+    border: solid 2px rgb(11, 137, 255);
+    background-color: rgb(65, 185, 255);
+    margin: 5px;
+    margin-bottom:20px;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}

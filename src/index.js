@@ -11,6 +11,7 @@ import RouletteGun from './State-Drills/RouletteGun';
 import Tabs from './state/Tabs/Tabs';
 import Tabs2 from '../src/practice/Tabs2';
 import Accordian from './Accordian/Accordian';
+import DemonymApp from './CountryNatives(API-fetching)/DemonymApp';
 
 // ReactDOM.render(<App />, document.getElementById('root'));
 
@@ -32,4 +33,6 @@ const sections = [{name:'Sonic', content: 'Fastest thing Alive', avatar: "https:
 // ReactDOM.render(<Tabs  tabs={tabs}/>, document.getElementById('root'));
 // ReactDOM.render(<Tabs2 tabs={tabs} />, document.getElementById('root'));
 
-ReactDOM.render(<Accordian sections={sections} />, document.getElementById('root'));
+// ReactDOM.render(<Accordian sections={sections} />, document.getElementById('root'));
+
+ReactDOM.render(<DemonymApp />, document.getElementById('root'));
