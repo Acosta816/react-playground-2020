@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TestSuite: Tabs3 component Snap1: renders empty given no tabs 1`] = `
+<div>
+  <button
+    key="0"
+    onClick={[Function]}
+    type="button"
+  >
+    potatoe
+  </button>
+  <div
+    className="current-tab"
+  >
+    <h1>
+      potatoe
+    </h1>
+    <img
+      className="avatar"
+    />
+  </div>
+</div>
+`;
+
+exports[`TestSuite: Tabs3 component Snap2: renders first tab by default 1`] = `
+<div>
+  <button
+    key="0"
+    onClick={[Function]}
+    type="button"
+  >
+    Sonic
+  </button>
+  <button
+    key="1"
+    onClick={[Function]}
+    type="button"
+  >
+    Tails
+  </button>
+  <button
+    key="2"
+    onClick={[Function]}
+    type="button"
+  >
+    Amy
+  </button>
+  <button
+    key="3"
+    onClick={[Function]}
+    type="button"
+  >
+    Robotnik
+  </button>
+  <button
+    key="4"
+    onClick={[Function]}
+    type="button"
+  >
+    Shadow
+  </button>
+  <button
+    key="5"
+    onClick={[Function]}
+    type="button"
+  >
+    Sally
+  </button>
+  <div
+    className="current-tab"
+  >
+    <h1>
+      Sonic
+    </h1>
+    <img
+      alt="Fastest thing Alive"
+      className="avatar"
+      src="https://b7.pngbarn.com/png/547/724/sonic-the-hedgehog-2-sonic-3d-sonic-mania-sonic-cd-sonic-the-hedgehog-png-clip-art.png"
+    />
+  </div>
+</div>
+`;

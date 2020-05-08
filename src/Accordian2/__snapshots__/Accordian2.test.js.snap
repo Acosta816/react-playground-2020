@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TestSuite: Accordian2 component: Snap1: renders empty with no sections prop 1`] = `
+<div>
+  <li
+    key="0"
+  >
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      NO SECTIONS FOUND
+    </button>
+    <div
+      className="current-content"
+    >
+      <img
+        alt="content avatar"
+        src=""
+      />
+      <h2 />
+    </div>
+  </li>
+</div>
+`;
